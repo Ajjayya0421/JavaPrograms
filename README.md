@@ -5,7 +5,7 @@ p3.output:https://github.com/Ajjayya0421/JavaPrograms/blob/main/p3output.png
 p4.output:https://github.com/Ajjayya0421/JavaPrograms/blob/main/p4output.png
 p5.output:https://github.com/Ajjayya0421/JavaPrograms/blob/main/p5output.png
 p6.output:https://github.com/Ajjayya0421/JavaPrograms/blob/main/p6output.png
-p7.output:
+p7.output:https://github.com/Ajjayya0421/JavaPrograms/blob/main/p7output.png
 p8.output:
 p9.output:
 p10.output:
