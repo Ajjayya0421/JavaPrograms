@@ -20,3 +20,5 @@ JListExampleOutput:https://github.com/Ajjayya0421/JavaPrograms/blob/main/JListEx
 CountrycapitalListOutput:https://github.com/Ajjayya0421/JavaPrograms/blob/main/CountryCapitalListOutput.png
 TabbedColorExampleoutput:https://github.com/Ajjayya0421/JavaPrograms/blob/main/TabbedColorExampleoutput.png
 TabbedPaneExampleOutput:https://github.com/Ajjayya0421/JavaPrograms/blob/main/TabbedPaneExampleOutput.png
+FactorialNumberoutput:https://github.com/Ajjayya0421/JavaPrograms/blob/main/FactorialNumberoutput.png
+Cookieservletoutput:https://github.com/Ajjayya0421/JavaPrograms/blob/main/Cookieservletoutput.png
