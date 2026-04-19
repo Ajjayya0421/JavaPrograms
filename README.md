@@ -21,3 +21,4 @@ CountrycapitalListOutput:https://github.com/Ajjayya0421/JavaPrograms/blob/main/C
 TabbedColorExampleoutput:https://github.com/Ajjayya0421/JavaPrograms/blob/main/TabbedColorExampleoutput.png
 TabbedPaneExampleOutput:https://github.com/Ajjayya0421/JavaPrograms/blob/main/TabbedPaneExampleOutput.png
 FactorialNumberoutput:https://github.com/Ajjayya0421/JavaPrograms/blob/main/FactorialNumberoutput.png
+Cookieservletoutput:https://github.com/Ajjayya0421/JavaPrograms/blob/main/Cookieservletoutput.png
