@@ -27,3 +27,4 @@ SessionTrackingOutput:https://github.com/Ajjayya0421/JavaPrograms/blob/main/Sess
 SessionusingJSPOutput:https://github.com/Ajjayya0421/JavaPrograms/blob/main/SessionusingJSPOutput.png
 SessionUsingJSp2Outpu:https://github.com/Ajjayya0421/JavaPrograms/blob/main/SessionUsingJSp2Output.png
 UservalidationOutput:https://github.com/Ajjayya0421/JavaPrograms/blob/main/UservalidationOutput.png
+StudentResultOutput:https://github.com/Ajjayya0421/JavaPrograms/blob/main/StudentResultOutput.png
