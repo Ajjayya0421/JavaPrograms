@@ -22,3 +22,4 @@ TabbedColorExampleoutput:https://github.com/Ajjayya0421/JavaPrograms/blob/main/T
 TabbedPaneExampleOutput:https://github.com/Ajjayya0421/JavaPrograms/blob/main/TabbedPaneExampleOutput.png
 FactorialNumberoutput:https://github.com/Ajjayya0421/JavaPrograms/blob/main/FactorialNumberoutput.png
 Cookieservletoutput:https://github.com/Ajjayya0421/JavaPrograms/blob/main/Cookieservletoutput.png
+PrimeNumberoutpu:https://github.com/Ajjayya0421/JavaPrograms/blob/main/PrimeNumberoutput.png
