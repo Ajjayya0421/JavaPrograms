@@ -12,3 +12,4 @@ p10.output:https://github.com/Ajjayya0421/JavaPrograms/blob/main/p10output.png
 StringHandlingDemooutput:https://github.com/Ajjayya0421/JavaPrograms/blob/main/StringHandlingDemooutput.png
 PerformanceTestDemooutput:https://github.com/Ajjayya0421/JavaPrograms/blob/main/PerformanceTestDemoOutput.png
 StringFunctionDemoOutput:https://github.com/Ajjayya0421/JavaPrograms/blob/main/StringFunctionsDemooutput.png
+StringFunctionSet2Output:https://github.com/Ajjayya0421/JavaPrograms/blob/main/StringFunctionsSet2output.png
