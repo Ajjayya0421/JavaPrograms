@@ -1,7 +1,7 @@
 ListInterfaceDemo:https://github.com/Ajjayya0421/JavaPrograms/blob/main/ListInterfaceDemoOutput.png
 p1.output:https://github.com/Ajjayya0421/JavaPrograms/blob/main/p1output.png
 p2.output:https://github.com/Ajjayya0421/JavaPrograms/blob/main/p2output.png
-p3.output:
+p3.output:https://github.com/Ajjayya0421/JavaPrograms/blob/main/p3output.png
 p4.output:
 p5.output:
 p6.output:
