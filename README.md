@@ -25,3 +25,4 @@ Cookieservletoutput:https://github.com/Ajjayya0421/JavaPrograms/blob/main/Cookie
 PrimeNumberoutpu:https://github.com/Ajjayya0421/JavaPrograms/blob/main/PrimeNumberoutput.png
 SessionTrackingOutput:https://github.com/Ajjayya0421/JavaPrograms/blob/main/SessionTrackingOutput.png
 SessionusingJSPOutput:https://github.com/Ajjayya0421/JavaPrograms/blob/main/SessionusingJSPOutput.png
+SessionUsingJSp2Outpu:https://github.com/Ajjayya0421/JavaPrograms/blob/main/SessionUsingJSp2Output.png
