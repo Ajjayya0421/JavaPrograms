@@ -19,3 +19,4 @@ ImageButtonExampleOutput:https://github.com/Ajjayya0421/JavaPrograms/blob/main/I
 JListExampleOutput:https://github.com/Ajjayya0421/JavaPrograms/blob/main/JListExampleOutput.png
 CountrycapitalListOutput:https://github.com/Ajjayya0421/JavaPrograms/blob/main/CountryCapitalListOutput.png
 TabbedColorExampleoutput:https://github.com/Ajjayya0421/JavaPrograms/blob/main/TabbedColorExampleoutput.png
+TabbedPaneExampleOutput:https://github.com/Ajjayya0421/JavaPrograms/blob/main/TabbedPaneExampleOutput.png
