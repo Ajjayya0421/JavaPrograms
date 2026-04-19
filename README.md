@@ -1,2 +1,11 @@
 ListInterfaceDemo:https://github.com/Ajjayya0421/JavaPrograms/blob/main/ListInterfaceDemoOutput.png
 p1.output:https://github.com/Ajjayya0421/JavaPrograms/blob/main/p1output.png
+p2.output:
+p3.output:
+p4.output:
+p5.output:
+p6.output:
+p7.output:
+p8.output:
+p9.output:
+p10.output:
